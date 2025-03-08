@@ -10,3 +10,6 @@
 [submodule "calculo-y-metodos-numericos"]
 	path = calculo-y-metodos-numericos
 	url = git@github.com:srlasagne/calculo-y-metodos-numericos.git
+[submodule "logica-computacional"]
+	path = logica-computacional
+	url = git@github.com:srlasagne/logica-computacional.git
