@@ -20,3 +20,8 @@ subjects:
     credits: 6
     course: 1
     semester: 2
+  - subject: Cálculo y Métodos Numéricos
+    code: cmn
+    credits: 6
+    course: 1
+    semester: 2
