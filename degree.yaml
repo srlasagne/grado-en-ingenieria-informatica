@@ -10,3 +10,8 @@ subjects:
     credits: 6
     course: 1
     semester: 1
+  - subject: Tecnología de Computadores
+    code: tc
+    credits: 6
+    course: 1
+    semester: 1
