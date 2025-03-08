@@ -5,3 +5,8 @@ degree:
   university: Universidad Internacional de La Rioja
 
 subjects:
+  - subject: Álgebra y Matemática Discreta
+    code: amd
+    credits: 6
+    course: 1
+    semester: 1
