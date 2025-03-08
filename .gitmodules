@@ -4,3 +4,6 @@
 [submodule "tecnologia-de-computadores"]
 	path = tecnologia-de-computadores
 	url = git@github.com:srlasagne/tecnologia-de-computadores.git
+[submodule "algoritmia-y-complejidad"]
+	path = algoritmia-y-complejidad
+	url = git@github.com:srlasagne/algoritmia-y-complejidad.git
