@@ -1,3 +1,6 @@
 [submodule "algebra-y-matematica-discreta"]
 	path = algebra-y-matematica-discreta
 	url = git@github.com:srlasagne/algebra-y-matematica-discreta.git
+[submodule "tecnologia-de-computadores"]
+	path = tecnologia-de-computadores
+	url = git@github.com:srlasagne/tecnologia-de-computadores.git
