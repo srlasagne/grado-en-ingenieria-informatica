@@ -1,0 +1,3 @@
+[submodule "algebra-y-matematica-discreta"]
+	path = algebra-y-matematica-discreta
+	url = git@github.com:srlasagne/algebra-y-matematica-discreta.git
