@@ -25,3 +25,8 @@ subjects:
     credits: 6
     course: 1
     semester: 2
+  - subject: Lógica Computacional
+    code: lc
+    credits: 6
+    course: 1
+    semester: 2
