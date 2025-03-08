@@ -7,3 +7,6 @@
 [submodule "algoritmia-y-complejidad"]
 	path = algoritmia-y-complejidad
 	url = git@github.com:srlasagne/algoritmia-y-complejidad.git
+[submodule "calculo-y-metodos-numericos"]
+	path = calculo-y-metodos-numericos
+	url = git@github.com:srlasagne/calculo-y-metodos-numericos.git
